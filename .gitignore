@@ -1,0 +1,24 @@
+## This project -- FileDedupe ##
+test-output/**
+target/**
+lib/**
+tel
+_config.yml
+
+##--- Generic stuff to ignore ---##
+# Java #
+*.class
+
+# Log files
+*.log
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Windows Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# IntelliJ IDEA files #
+.idea
+
+# End
